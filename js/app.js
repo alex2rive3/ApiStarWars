@@ -1,4 +1,4 @@
-for (let i = 1; i <= 10; i++) {
+for (let i = 1; i <= 6; i++) {
     let urlPersona = `https://swapi.dev/api/people/${i}/`;
     fetch(urlPersona).then(response => response.json())
     .then(json =>{

@@ -14,7 +14,7 @@ h1{
     font-size: 18px;
     border: 3px solid #1B98E0;
 }
-container{
+.container{
        width: 50%;
 }
 hr{
